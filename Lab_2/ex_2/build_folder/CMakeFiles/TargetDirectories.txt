@@ -1,0 +1,3 @@
+/home/lev/Programming/Computer_organization/Lab_2/ex_2/build_folder/CMakeFiles/program.dir
+/home/lev/Programming/Computer_organization/Lab_2/ex_2/build_folder/CMakeFiles/edit_cache.dir
+/home/lev/Programming/Computer_organization/Lab_2/ex_2/build_folder/CMakeFiles/rebuild_cache.dir

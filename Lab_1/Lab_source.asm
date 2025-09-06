@@ -28,7 +28,7 @@ input_number:
     jb .input_loop
     cmp al, '9'
     ja .input_loop
-    stosb
+    stosb ; сохранить байт из AL в [DI] и увеличить DI
     mov ah, 0x0e
     int 0x10
     loop .input_loop
@@ -40,7 +40,7 @@ reverse_number:
     mov di, reversed_buffer + 3
     mov cx, 4
 .reverse_loop:
-    lodsb
+    lodsb ; загружаем байт из [SI] в AL и увеличиваем SI
     mov [di], al
     dec di
     loop .reverse_loop

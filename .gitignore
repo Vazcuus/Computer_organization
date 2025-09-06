@@ -1,0 +1,10 @@
+# Ignore common build folders
+build/
+Build/
+bin/
+out/
+dist/
+*/build_folder/
+*/bin/
+*/out/
+*/dist/

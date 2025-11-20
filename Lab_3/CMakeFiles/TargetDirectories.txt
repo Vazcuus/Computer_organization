@@ -1,0 +1,3 @@
+/home/lev/github/Computer_organization/Lab_3/CMakeFiles/lab3.dir
+/home/lev/github/Computer_organization/Lab_3/CMakeFiles/edit_cache.dir
+/home/lev/github/Computer_organization/Lab_3/CMakeFiles/rebuild_cache.dir
